@@ -21,7 +21,7 @@ All the R scripts for data analysis and figures are located in the `scripts/` fo
 ## a) Data analysis
 
 *Acacia flower counts*: to reproduce the regression lines used to predict acacia flower densities at sites, use 'acaciaregression_.r'
-*For analyses regarding the visitation to and seed set of 3 focal plant species*: use 'focals_analysis_.r'
+*For analyses regarding the visitation to and seed set of 3 focal plant species*: use 'focals_analysis_.r/'
 *For all other analyses*: including visitation networks, use 'main_analysis_.r'
 
 ## b) Main text Figures
