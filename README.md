@@ -30,5 +30,5 @@ All the R scripts for data analysis and figures are located in the `scripts/` fo
 
 ## c) Supplimentary material figures
 
-*Visitation networks*: Plant-insect visitation networks: 'X.r'
+*Visitation networks*: Plant-insect visitation networks: 'webillustration_.r'
 *Site Map*: The script concerning map plotting is `sitemap_.r'
