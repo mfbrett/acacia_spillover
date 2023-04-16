@@ -10,7 +10,7 @@ This repository contains all the R script and raw data required to reproduce the
 
 [Download][1] the data and script files, then run the scripts using [R][2] or [R Studio][3].
 
-[1]: https://github.com/mfbrett/acacia_spillover/master.zip
+[1]: https://github.com/mfbrett/acacia_spillover/blob/main/Master.zip
 [2]: https://www.r-project.org/
 [3]: https://www.rstudio.com/products/rstudio/download/
 
