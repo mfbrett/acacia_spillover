@@ -28,8 +28,8 @@ All the R scripts for data analysis and figures are located in the `scripts/` fo
 
 ## b) Main text Figures
 
-*Figure 2: Visitation network analyses*: The code to produce the panels in Figure 2 can be found in `main_analysis_.r`
-*Figure 3: Focal species analyses*: The code to produce the panels in Figure 3 can be found in `focals_analysis_.r`
+*Figure 3: Visitation network analyses*: The code to produce the panels in Figure 2 can be found in `main_analysis_.r`
+*Figure 4: Focal species analyses*: The code to produce the panels in Figure 3 can be found in `focals_.r`
 
 ## c) Supplimentary material figures
 
