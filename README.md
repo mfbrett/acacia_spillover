@@ -20,15 +20,20 @@ All the R scripts for data analysis and figures are located in the `scripts/` fo
 
 ## a) Data analysis
 
-*Acacia flower counts*: to reproduce the regression lines used to predict acacia flower densities at sites, use 'acaciaregression_.r'
-*For analyses regarding the visitation to and seed set of 3 focal plant species*: use 'focals_analysis_.r/'
-*For all other analyses*: including visitation networks, use 'main_analysis_.r'
+*Acacia flower counts*: to reproduce the regression lines used to predict acacia flower densities at sites, use `acaciaregression_.r`
+
+*For analyses regarding the visitation to and seed set of 3 focal plant species*: use `focals_analysis_.R`
+
+*For all other analyses*: including visitation networks, use `main_analysis_.r`
 
 ## b) Main text Figures
 
-*Figures 2 & 3*: The code to produce Figures 2 & 3 can be found in 'main_analysis_.r'
+*Figure 2: Visitation network analyses*: The code to produce the panels in Figure 2 can be found in `main_analysis_.r`
+*Figure 3: Focal species analyses*: The code to produce the panels in Figure 3 can be found in `focals_analysis_.r`
 
 ## c) Supplimentary material figures
 
-*Visitation networks*: Plant-insect visitation networks: 'webillustration_.r'
-*Site Map*: The script concerning map plotting is `sitemap_.r'
+*Figure S1: Site Map*: The script concerning map plotting is `sitemap_.r`
+*Figure S3: Visitation networks*: Plant-insect visitation networks: `webillustration_.r`
+
+
